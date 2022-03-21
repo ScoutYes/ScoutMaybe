@@ -9,7 +9,7 @@ client.remove_command('help')
 
 @client.event
 async def on_ready():
-  print('Copyright (c) 2020-2021 ScoutYes')
+  print('(c) 2022 Josiah Kay')
 
 @client.event
 async def on_ready():
